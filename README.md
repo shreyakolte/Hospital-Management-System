@@ -97,7 +97,7 @@ Organized for easy navigation and reuse:
 
 - **Course:** INFO 579 – SQL/NoSQL Databases for Data and Information Sciences  
 - **Term:** Fall 2024  
-- **Timeline:** Completed in **November 2024**  
+- **Timeline:** Completed in **December 2024**  
 - **Instructor:** Prof. Nayem Rahman  
 - **University:** University of Arizona  
 
